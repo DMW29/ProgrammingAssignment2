@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Computationally intensive operations consume resources and time.
+## When the object on which these calculations are made remain unchanged,
+## it is best to cache the calulation result.
+## This function will calculate the inverse of a square, invertible matrix
+## and cache it into memory.
 
 ## Write a short comment describing this function
 
